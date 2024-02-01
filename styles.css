@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  img{
+    width: 100px;
+    border-radius: 10%;
+  }
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .icon {
+    margin-right: 5px;
+  }
+  
+  section {
+    background-color:rgba(0, 255, 98, 0.192) ;
+    padding: 20px;
+    margin: 10px;
+  }
+  section{border-style:solid;}
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .skills ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .skills li {
+    margin: 0 10px 10px 0;
+    background-color: #dddddd;
+    padding: 5px 10px;
+    border-radius: 5px;
+
+    /* Add your existing CSS styles here */
+
+.projects,
+.certifications,
+.hobbies {
+  background-color:aqua;
+  padding: 20px;
+  margin: 10px;
+}
+  }
